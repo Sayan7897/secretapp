@@ -1,0 +1,25 @@
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1602678035336-9e652e5f5d27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80");
+  background-color: #E8ECEF;
+  
+  color: #20ff56;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #20ff56;
+  background-color: #000;
+}
+.container {
+  max-width:50%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
